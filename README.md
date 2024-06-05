@@ -1,4 +1,4 @@
-# Setup.sql
+# Overview
 
 This script is used to set up a stored proc in Snowflake that uses external access to make an API call to ServiceNow, which then creates a ticket - all within Snowflake.
 
